@@ -7,3 +7,7 @@ d3.select(h1).style('color','blue');
 
 d3.select('body').append('p')
 .text('this is a new paragraph')
+
+
+d3.select('body').append('p')
+.text('my fav food is scallops')
